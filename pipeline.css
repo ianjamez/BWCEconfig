@@ -36,6 +36,12 @@ div.pipeline-wrapper {
 .FAILURE {
     background-color: #e87d7d;
 }
+.PENDING {
+    background-color: #6edaf5;
+    color: #222;
+}
+
+
 .revision {
     background-color: #b5b4b4;
     text-align: center;
