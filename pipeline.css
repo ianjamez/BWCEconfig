@@ -1,0 +1,12 @@
+#build-pipeline-plugin-content {
+	background-color: none;
+	border-radius: 0;
+}
+
+#build-pipeline-plugin-content h1 {
+	display: none;
+}
+
+tbody.pipelineGroup {
+	background-color: #eee;
+}
